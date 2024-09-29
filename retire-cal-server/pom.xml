@@ -8,8 +8,7 @@
         <artifactId>retire-cal</artifactId>
         <version>${revision}</version>
     </parent>
-
-    <groupId>top.moma</groupId>
+    
     <artifactId>retire-cal-server</artifactId>
     <version>${revision}</version>
 
