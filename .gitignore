@@ -57,6 +57,7 @@ build/
 hs_err_pid*
 
 ### Maven template
+.flattened-pom.xml
 target/
 pom.xml.tag
 pom.xml.releaseBackup
